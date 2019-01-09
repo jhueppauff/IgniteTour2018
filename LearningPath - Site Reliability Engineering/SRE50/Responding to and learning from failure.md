@@ -13,7 +13,7 @@
 
 ## Mean time to recover (MTTR)
 
-- on average how long does it tkae to resore service when a service incident occurs
+- on average how long does it take to resore service when a service incident occurs
 
 ## Costs of Downtime
 
